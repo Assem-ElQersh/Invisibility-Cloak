@@ -22,7 +22,7 @@ A Python-based implementation of the "Invisibility Cloak" effect using OpenCV. T
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/Invisibility-Cloak.git
+git clone https://github.com/Assem-ElQersh/Invisibility-Cloak.git
 cd Invisibility-Cloak
 ```
 
