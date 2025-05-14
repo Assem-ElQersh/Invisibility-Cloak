@@ -35,7 +35,7 @@ pip install opencv-python numpy
 
 1. Run the program:
 ```bash
-python "Invisiblity Cloak.py"
+python "Invisibility Cloak.py"
 ```
 
 2. Controls:
